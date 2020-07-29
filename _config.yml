@@ -27,7 +27,9 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Jeff and I'm a software engineer. My experience is in Android mobile application development and have also developed small scale web projects. Starting in the industry from 2011 I have worked at a number of companies contributing my knowledge in development and also gaining technical, teamwork and leadership skills.
 
   I am most skilled in: <mark>Android</mark>, <mark>Java</mark>
+  
   I have also worked on and am familiar with the following technologies & tools: <mark>Jenkins</mark>, <mark>Javascript</mark>, <mark>GIS</mark>, <mark>Mapbox</mark>, <mark>AWS</mark>
+  
   My other skills include: <mark>unit testing</mark>, <mark>Junit</mark>, <mark>Jacoco</mark>, <mark>validation & verification</mark>, <mark>Agile software development - SCRUM</mark>
 
   My personal philosophy is: tools and technologies are always changing, it's better to be adaptable and embrace a learning mindset.
