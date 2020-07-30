@@ -1,26 +1,26 @@
 - layout: top-middle
   name: SaveEntry
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://github.com/jefff00/SaveEntry
+  # github: sproogen/resume-theme
   quote: >
-    This is probably one of my more useful app but sadly it can't be published by Google PlayStore!!!
+    This is probably one of my more useful app but sadly it can't be published on Google PlayStore!!!
   description: | # this will include new lines to allow paragraphs
     I started this project to solve my own problem of not being able to keep track of SafeEntry visits. Proper usage of SafeEntry actually requires people to screenshot and keep records but not many people do so. The challenge in this project was detecting when the user taps on the check-in, check-out button on the SafeEntry webpage and also understanding the user flows in order to improve the UX.
     This project was implemented in Android using recommended practices such as Android Room, Material Design.
 
 - layout: top-middle
   name: WhatsHere
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://github.com/jefff00/WhatsHere
+  # github: sproogen/resume-theme
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    I started this project to learn GIS and geospatial analysis using Geoserver, PostGIS. It uses public data sources from gov.sg and also scraped store location data from websites of petrol stations, convenience stores and supermarkets. Through this project I learnt to setup EC2 instances to host the backend services required. This was also a good learning into geospatial data format such as KML, geojson, shapefiles and ogr2ogr.
 
 - layout: top-middle
   name: HuatAh
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  link: https://github.com/jefff00/HuatAh
+  # github: sproogen/resume-theme
   quote: >
     The house always wins, but can you increase your odds in a game of chance?
   description: | # this will include new lines to allow paragraphs
