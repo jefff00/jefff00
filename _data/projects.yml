@@ -3,7 +3,7 @@
   link: https://github.com/jefff00/SaveEntry
   # github: sproogen/resume-theme
   quote: >
-    This is probably one of my more useful app but sadly it can't be published on Google PlayStore!!!
+    This is one of my more useful app but sadly it can't be published on Google PlayStore!
   description: | # this will include new lines to allow paragraphs
     I started this project to solve my own problem of not being able to keep track of SafeEntry visits. Proper usage of SafeEntry actually requires people to screenshot and keep records but not many people do so. The challenge in this project was detecting when the user taps on the check-in, check-out button on the SafeEntry webpage and also understanding the user flows in order to improve the UX.
     This project was implemented in Android using recommended practices such as Android Room, Material Design.
@@ -13,9 +13,9 @@
   link: https://github.com/jefff00/WhatsHere
   # github: sproogen/resume-theme
   quote: >
-    
+    Location, location, location.
   description: | # this will include new lines to allow paragraphs
-    I started this project to learn GIS and geospatial analysis using Geoserver, PostGIS. It uses public data sources from gov.sg and also scraped store location data from websites of petrol stations, convenience stores and supermarkets. Through this project I learnt to setup EC2 instances to host the backend services required. This was also a good learning into geospatial data format such as KML, geojson, shapefiles and ogr2ogr.
+    I started this project to learn GIS and geospatial analysis using Geoserver, PostGIS. It uses public data sources from gov.sg and also scraped store location data from websites of petrol stations, convenience stores and supermarkets. Through this project I learnt to setup EC2 instances to host the services required. It's also a good learning into geospatial data format such as KML, geojson, shapefiles and ogr2ogr.
 
 - layout: top-middle
   name: HuatAh
